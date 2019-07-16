@@ -1,0 +1,17 @@
+---
+title: Why working poor do not afford public transit or bikes
+author: Akshay Malik
+date: '2019-07-15'
+categories:
+  - Urban Mobility
+tags:
+  - Urbanism
+slug: why-working-poor-do-not-afford-public-transit-or-bikes
+Categories:
+  - Development
+  - GoLang
+Tags:
+  - Development
+  - golang
+menu: main
+---
