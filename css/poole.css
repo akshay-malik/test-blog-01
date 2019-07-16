@@ -237,6 +237,11 @@ tbody tr:nth-child(odd) th {
 }
 
 
+.lead_s {
+  font-size: 1.1rem;
+  font-weight: 200;
+}
+
 /*
  * Messages
  *
